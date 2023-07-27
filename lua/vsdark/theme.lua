@@ -96,6 +96,7 @@ theme.load_syntax = function()
     cxxEnumMember         = {c.vsLightGreen, nil, 'none', nil},
     cxxVariable           = {c.vsLightBlue, nil, 'none', nil},
     cxxMacro              = {c.vsBluePurple, nil, 'none', nil},
+    cxxSkipped            = {c.vsGray, nil, 'none', nil},
 
 
 		-- Treesitter
